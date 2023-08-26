@@ -31,4 +31,4 @@ Bu proje, sağlık sigortası maliyetini tahmin etmek amacıyla veri analizi ve 
 2. Proje raporunun sonuçlarını inceleyin ve çıkarımlarınızı not alın.
 
 ## İletişim
-
+ [k.yusufokuducu@gmail.com](mailto:k.yusufokuducu@gmail.com)
